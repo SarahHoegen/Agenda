@@ -1,11 +1,7 @@
 <?php
     require 'controlador_agenda.php';
     $contato = editarContato($_GET['id']);
-
 ?>
-
-
-
 
 <!doctype html>
 <html lang="en">
